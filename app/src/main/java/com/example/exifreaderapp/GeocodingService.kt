@@ -65,7 +65,6 @@ object GeocodingService {
         if (address == null) {
             return null
         }
-        // 例: 〒100-0001 東京都千代田区千代田１−１
         return buildString {
             // 郵便番号
             if (address.postalCode != null) {
