@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="very_light_gray">#EEEEEE</color>
+
+    <!-- New Modern Palette -->
+    <color name="md_theme_primary">#0D65D9</color>
+    <color name="md_theme_on_primary">#FFFFFF</color>
+    <color name="md_theme_secondary">#0D65D9</color>
+    <color name="md_theme_surface_light">#F8F9FA</color>
+    <color name="md_theme_on_surface_light">#1C1B1F</color>
+    <color name="md_theme_surface_dark">#1F2124</color>
+    <color name="md_theme_on_surface_dark">#E3E2E6</color>
+
+    <color name="text_shadow_color">#7F000000</color>
+</resources>

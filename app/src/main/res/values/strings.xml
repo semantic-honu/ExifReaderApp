@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExifReaderApp</string>
+    <string name="exif_display">Exif情報がここに表示されます。</string>
+    <string name="exif_delete">Exif情報を削除して保存</string>
+    <string name="photo_select">写真を選択</string>
+    <string name="photo_selected">選択された画像</string>
+</resources>

@@ -1,0 +1,44 @@
+# Built application files
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Build output
+/build
+/app/build
+/captures
+
+# Gradle cache
+.gradle
+
+# IDE files
+.idea/
+*.iml
+
+# Local configuration file (contains SDK path and other user-specific settings)
+local.properties
+
+# Keystore files (should not be committed to version control)
+*.jks
+*.keystore
+
+# NDK build output
+.externalNativeBuild/
+.cxx/
+
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# Android Profiling
+*.hprof
+
+# Kotlin project-specific files
+/.kotlin/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
